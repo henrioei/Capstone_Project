@@ -5,7 +5,7 @@
 ## Problem Statement
 
 The objective is to create a predictive model to forecast future stock closing prices.
-*For the purpose of this presentation I will be showcasing the AMD stock ticker.*
+- *For the purpose of this presentation I will be showcasing the AMD stock ticker.*
 
 ## Executive Summary
 
