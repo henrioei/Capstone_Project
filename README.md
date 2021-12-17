@@ -24,7 +24,7 @@ One of the fundamental differences between many time series and a random samplin
 
 With autocorrelation, we are not dealing with two random variables, what we are doing is measuring the correlation between a time series in itself at different lags or shifts in time. As the lag increases, you get to a point where if you are far away enough in time you can consider two values to be statistically independent.
 
-W are then left with white noise-a random process, whose samples are regarded as a sequence of serially uncorrelated random variables with zero mean and finite variance.
+We are then left with white noise-a random process, whose samples are regarded as a sequence of serially uncorrelated random variables with zero mean and finite variance.
 
 
 ## Evaluation of Predictions
