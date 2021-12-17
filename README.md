@@ -30,27 +30,27 @@ W are then left with white noise-a random process, whose samples are regarded as
 ## Evaluation of Predictions
 
 **Intial AdFuller Results**
-ADF Test Statistic : 1.3842659609766095
-p-value : 0.997041479296224
-Number of Observations Used : 1237
-Comment : Time series is non-stationary
+- ADF Test Statistic : 1.3842659609766095
+- p-value : 0.997041479296224
+- Number of Observations Used : 1237
+- Comment : Time series is non-stationary
 
 **After Applying Lag(1) to the Dataset**
-ADF Test Statistic : -9.059840432443018
-p-value : 4.594794188707755e-15
-Number of Observations Used : 1242
-Comment : Time series is stationary
+- ADF Test Statistic : -9.059840432443018
+- p-value : 4.594794188707755e-15
+- Number of Observations Used : 1242
+- Comment : Time series is stationary
 
 **After Applying Lag(24) to the Dataset**
-ADF Test Statistic : -8.610593374916578
-p-value : 6.491890430629663e-14
-Number of Observations Used : 1209
-Comment : Time series is stationary
+- ADF Test Statistic : -8.610593374916578
+- p-value : 6.491890430629663e-14
+- Number of Observations Used : 1209
+- Comment : Time series is stationary
 
-ARIMA : The average difference between the predicted value and the actual value is 24.29%
-SARIMAX : The average difference between the predicted value and the actual value is 26.19%
-GRU : The average difference between the predicted value and the actual value is 3.93%
-LSTM : The average difference between the predicted value and the actual value is 6.25%
+1. ARIMA : The average difference between the predicted value and the actual value is 24.29%
+2. SARIMAX : The average difference between the predicted value and the actual value is 26.19%
+3. GRU : The average difference between the predicted value and the actual value is 6.3%
+4. LSTM : The average difference between the predicted value and the actual value is 4.58%
 
 ## Conclusions and Recommendations
 
