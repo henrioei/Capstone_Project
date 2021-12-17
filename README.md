@@ -47,10 +47,10 @@ W are then left with white noise-a random process, whose samples are regarded as
 - Number of Observations Used : 1209
 - Comment : Time series is stationary
 
-**ARIMA** : The average difference between the predicted value and the actual value is 24.29%
-**SARIMAX** : The average difference between the predicted value and the actual value is 26.19%
-**GRU** : The average difference between the predicted value and the actual value is 6.3%
-**LSTM** : The average difference between the predicted value and the actual value is 4.58%
+- **ARIMA** : The average difference between the predicted value and the actual value is 24.29%
+- **SARIMAX** : The average difference between the predicted value and the actual value is 26.19%
+- **GRU** : The average difference between the predicted value and the actual value is 6.3%
+- **LSTM** : The average difference between the predicted value and the actual value is 4.58%
 
 ## Conclusions and Recommendations
 
